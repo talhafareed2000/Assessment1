@@ -1,4 +1,4 @@
-# Rentel-Estimator
+# Rental-Estimator
 -Leaflet Mapping: Fully functional.  
 -Accurate Mapping
 -Database access and data manupulation: Fully function    
